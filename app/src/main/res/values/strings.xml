@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login-java</string>
+    <string name="welcome">Bienvenido a Codelia!</string>
+    <string name="login_txt">Inicia sesión para continuar</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="forgot">Olvidaste tu contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Eres nuevo? Registrate!</string>
+</resources>
